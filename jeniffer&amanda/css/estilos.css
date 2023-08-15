@@ -1,0 +1,39 @@
+body{ 
+    background: linear-gradient(rgb(17, 17, 97),rgb(125, 241, 241));
+    height: 100%;  
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    text-align: center;
+}
+
+hr{
+    width: 50%;
+    height: 10px;
+    background: rgb(255, 253, 253);
+}
+
+#logo{
+    margin: 10px auto;
+    display: block;
+}
+
+a{
+    display: block;
+    margin:1% auto;
+    width: 10%;
+}
+
+.img1{
+    margin: 50px auto;
+    width: 30%;
+    display: block;
+}
+.img2{
+margin: 50px auto;
+width: 30%;
+display: block;
+}
+
