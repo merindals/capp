@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgb(60, 175, 175), rgb(213, 121, 137)) ;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#central{
+    background: white;
+    width: 300px;
+    border-radius: 200px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
